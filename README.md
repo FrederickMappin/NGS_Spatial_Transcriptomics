@@ -9,3 +9,4 @@ This dataset consists of one sample (Visium capture area) from one donor, consis
 
 ## Select Results: 
 <img width="1111" alt="Screenshot 2024-12-30 at 4 16 13 PM" src="https://github.com/user-attachments/assets/496b234c-37f2-44d4-8f29-76290cb7b07e" />
+Fig. Left to right- unlabeled plotted spatial coordinates (spots) in x-y dimensions on the tissue slide, plotted clusters in spatial x-y coordinates, plotted "ground truth" clusters based on biological structure (cortical layers)

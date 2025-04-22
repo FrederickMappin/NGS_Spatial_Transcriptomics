@@ -1,4 +1,4 @@
-# Spatial Transcriptomics Analyses
+# Spatial Transcriptomics Analyses of DLPFC
 
 Spatial Transcriptomics is a groundbreaking technique that combines RNA sequencing with spatial localization to map gene expression within intact tissues. Unlike traditional RNA-seq, which provides a bulk measurement of gene activity, spatial transcriptomics preserves the anatomical context, allowing researchers to examine where specific genes are expressed within the tissue architecture. By correlating gene expression data with histological features, this technique offers unprecedented insight into cellular heterogeneity, tissue organization, and the interactions between different cell types within their native environments.
 
